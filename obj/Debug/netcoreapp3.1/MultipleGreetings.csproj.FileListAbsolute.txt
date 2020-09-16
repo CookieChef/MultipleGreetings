@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.exe
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.deps.json
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.runtimeconfig.json
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.dll
+C:\Users\s_mar\Melissa\MultipleGreetings\bin\Debug\netcoreapp3.1\MultipleGreetings.pdb
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.dll
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.pdb
+C:\Users\s_mar\Melissa\MultipleGreetings\obj\Debug\netcoreapp3.1\MultipleGreetings.genruntimeconfig.cache
